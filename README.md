@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello, Yoda
+
+<a href="https://github.com/yodaaa/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yodaaa&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/yodaaa/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodaaa" />
+</a>
 
 <!--
 **yodaaa/yodaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
