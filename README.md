@@ -4,6 +4,7 @@
 - 🏢 Work... CyberAgent, Inc.
 - 📍 Location... Tokyo, Japan.
 - ❤️ Love... 🎥 🛁 🍟 🏃 🥺
+- 💬 Twitter [@yodaaa_tech](https://twitter.com/yodaaa_tech)
 
 
 
