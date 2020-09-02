@@ -1,10 +1,12 @@
 # Hello, I'm Yoda
 
-- 🧑🏻‍💻 Job... iOS Developer📱
-- 🏢 Work... CyberAgent, Inc.
-- 📍 Location... Tokyo, Japan.
-- ❤️ Love... 🎥 🛁 🍟 🏃 🥺
-- 💬 Twitter [@yodaaa_tech](https://twitter.com/yodaaa_tech)
+|    |    |
+| ---- | ---- |
+|  🧑🏻‍💻 Job  |  iOS Developer📱  |
+|  🏢 Work  |   CyberAgent, Inc.  |
+|  📍 Location  |  Tokyo, Japan.  |
+|  ❤️ Love  |   🎥 🛁 🍟 🏃 🥺  |
+|  💬 Twitter  |  [@yodaaa_tech](https://twitter.com/yodaaa_tech)  |
 
 
 
