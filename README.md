@@ -1,5 +1,12 @@
 # Hello, I'm Yoda
 
+- 🧑🏻‍💻 Job... iOS Developer📱
+- 🏢 Work... CyberAgent, Inc.
+- 📍 Location... Tokyo, Japan.
+- ❤️ Love... 🎥 🛁 🍟 🏃 🥺
+
+
+
 <a href="https://github.com/yodaaa/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yodaaa&count_private=true&show_icons=true" />
 </a>
