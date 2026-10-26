@@ -91,16 +91,6 @@ struct Yoda: Engineer {
 
 </div>
 
-## 🐍 Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yodaaa/yodaaa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yodaaa/yodaaa/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/yodaaa/yodaaa/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E5DF3,100:F05138&height=100&section=footer" width="100%" alt="footer" />
