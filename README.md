@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:6E5DF3&height=180&section=header&text=Hello,%20I'm%20Yoda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=iOS%20%26%20SDK%20Engineer%20%2F%20Web%20Front%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Hello, I'm Yoda" />
+<h1>Hello, I'm Yoda 👋</h1>
+<p><b>iOS &amp; SDK Engineer / Web Front Engineer</b></p>
 
 <p>
   <a href="https://twitter.com/yodaaa_tech"><img src="https://img.shields.io/badge/X-@yodaaa__tech-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -78,15 +79,6 @@ struct Yoda: Engineer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yodaaa&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=yodaaa&theme=tokyonight&hide_border=true&border_radius=12&date_format=Y%2Fn%2Fj" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E5DF3,100:F05138&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
