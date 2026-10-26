@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:6E5DF3&height=180&section=header&text=Hello,%20I'm%20Yoda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=iOS%20%26%20SDK%20Engineer%20%2F%20Web%20Front%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Hello, I'm Yoda" />
 
 <a href="https://github.com/yodaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F05138&center=true&vCenter=true&width=560&lines=Building+native+iOS+apps+with+Swift+%F0%9F%93%B1;Shipping+SDKs+other+developers+rely+on+%F0%9F%A7%B0;Crafting+web+frontends+for+commerce+%F0%9F%9B%92;Based+in+Tokyo%2C+Japan+%F0%9F%97%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F05138&center=true&vCenter=true&width=560&lines=Crafting+web+frontends+for+commerce+%F0%9F%9B%92;TypeScript+%C3%97+React+%C3%97+Next.js+%E2%9A%9B%EF%B8%8F;iOS+%26+SDK+engineer+at+heart+%F0%9F%93%B1;Based+in+Tokyo%2C+Japan+%F0%9F%97%BC" alt="Typing SVG" />
 </a>
 
 <p>
