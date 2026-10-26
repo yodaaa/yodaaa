@@ -83,8 +83,6 @@ struct Yoda: Engineer {
 
 <img src="https://streak-stats.demolab.com?user=yodaaa&theme=tokyonight&hide_border=true&border_radius=12&date_format=Y%2Fn%2Fj" alt="GitHub streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yodaaa&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
-
 </div>
 
 <div align="center">
